@@ -4,6 +4,8 @@ I'm passionate about 👾technology, 🧠learn news development frameworks for �
 
 #### 🌱 I’m currently learning
 
+- Python
+- Next JS
 - .NET
 - Java Springboot
 - Angular
