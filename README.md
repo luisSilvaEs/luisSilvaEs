@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Luis Silva, Front End Web Developer living in Columbus Ohio 🇲🇽 🇺🇸
+### Hi there 👋 I'm Luis Silva, Front End Web Developer living in Calgary 🇲🇽 🇨🇦 
 
 I'm passionate about 👾technology, 🧠learn news development frameworks for 🤘Front-End. When my computer is turned off you can find me at gym 🏋, climbing 🧗, eating 🍕🌮 or just browsing Netflix 📼.
 
