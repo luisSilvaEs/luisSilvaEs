@@ -7,8 +7,6 @@ I'm passionate about 👾technology, 🧠learn news development frameworks for �
 - Python
 - Next JS
 - .NET
-- Java Springboot
-- Angular
 
 #### Tech Stack
 
